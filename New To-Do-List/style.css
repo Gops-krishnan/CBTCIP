@@ -1,0 +1,58 @@
+.custom-input, .custom-btn {
+    border-radius: unset !important;
+    padding: 20px !important;
+    float: left;
+}
+
+.custom-input {
+    width: 70% !important;
+}
+
+.custom-btn {
+    width: 20% !important;
+    margin-left: 10px;
+}
+
+.todo-area {
+    background-color: #ccc;
+    border-radius: 10px;
+    height: auto;
+    min-height: 80vh;
+    padding: 2%;
+}
+
+.custom-table {
+    width: 91% !important;
+}
+
+.custom-table thead>tr>th {
+    background-color: #4f85eb !important;
+    color: #fff !important;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+.table-data {
+    max-height: 60vh;
+    overflow-y: scroll !important;
+}
+
+::-webkit-scrollbar {
+    width: 0.7em;
+    height: 0.7em;
+    border-radius: 20% !important;
+}
+
+::-webkit-scrollbar-button {
+    background: #ccc
+}
+
+::-webkit-scrollbar-track-piece {
+    background: #888
+}
+
+::-webkit-scrollbar-thumb {
+    background: #eee
+}

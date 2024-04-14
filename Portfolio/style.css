@@ -1,0 +1,145 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.nav-link{
+    display: flex;
+}
+#flex-container-profile{
+    display: flex;
+    background-color: black;
+    height: auto;
+}
+#home{
+    background-color: black;
+}
+
+.name{
+    color: white;
+    text-align: center;
+}
+.pro-button{
+    margin-top: 30%;
+}
+.profile img{
+  width: 100%;
+}
+.objective{
+    color: orange;
+   font-size: 15px;
+}
+.career-objective p{
+    font-size: large;
+    font-family: georgia;
+}
+#Education{
+    background: black;
+    color: white;
+    height: auto;
+    padding-bottom: 30px;
+}
+.studies{
+    color: white;
+    padding-top: 15px;
+}
+.ug-1{
+    font-weight: bold;
+}
+.para-1{
+    font-size: larger;
+}
+.certifies{
+    color: black;
+    margin-top: 30px;
+}
+.cert-name{
+    font-weight: bolder;
+}
+.open{
+    color: orange;
+}
+#projects{
+    background: black;
+    height: auto;
+}
+.pro{
+    padding-top: 15px;
+    color: white;
+}
+.connection{
+    padding-top: 20px;
+    font-weight: bold;
+}
+.tech-buttons button{
+    font-size: larger;
+    padding-left: 20px;
+    background: black;
+}
+.btn, .btn-1, .btn-2{
+    margin-top: 20px;
+
+}
+.row{
+    padding-top: 25px;
+}
+  
+.list-unstyled{
+    padding-top: 39px;
+}
+.certify-flex-container{
+    display: flex;
+}
+.head-cert{
+    color: orange; 
+  }
+
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5, h6{
+    color: rgb(236, 103, 14);
+  
+}
+.exp h2{
+    margin-top: 20px;
+}
+
+.badges-1, .badges-2, .badges-3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#technical-skill{
+    height: auto;
+    margin-top: 50px;
+    background: black;
+}
+.T-skill{
+    color: orange;
+}
+.contact-form .btn-submit{
+    background-color: #ccc !important;
+    font-weight: bold;
+    border-radius: unset !important;
+    border-color: #ccc !important;
+    color:#000 !important;
+
+  }
+  .contact-form .form-control {
+    border-radius: unset !important;
+  }
+  .text-right{
+    text-align: right !important;
+  }
+
+  #contact-us{
+    background-color: lightblue;
+    height: 300px;
+  }
+.footer{
+    background-color: lightblue;
+}
+.sub-heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+.bi{
+    padding-left: 15px;
+}
